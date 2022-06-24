@@ -1,0 +1,9 @@
+{
+    "templatization": "replace",
+    "shuffling": "shuffle",
+    "permutation": "shuffle",
+    "substitution": "replace",
+    "insertion": "fix",
+    "deletion": "fix",
+    "shuffle": "shuffle"
+}
