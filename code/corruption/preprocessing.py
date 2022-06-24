@@ -1,5 +1,5 @@
 """
-contraction remover code (from myself) at: https://gist.github.com/rg089/77f5c4ea78e708f174a2a769b4a394f1
+contraction remover code at: https://gist.github.com/rg089/77f5c4ea78e708f174a2a769b4a394f1
 """
 
 import requests
