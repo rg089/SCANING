@@ -162,7 +162,7 @@ $ python get_results.py\
 
 ### Evaluating $\Psi$:
 
-On the test file, run the following com
+On the test file, run the following commands:
 ```
 $ python add_prompts_test_selected.py \
     --input_file ${TEST_FILE}\
