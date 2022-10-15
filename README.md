@@ -52,7 +52,7 @@ $ CUDA_VISIBLE_DEVICES=${GPU_ID} python train_generation.py\
     --output_col ${OUTPUT_COL=target}
 ```
 
-### 3. Generating the inference noise set:
+### 3. Generating the inference noised set:
 
 ```
 $ CUDA_VISIBLE_DEVICES=${GPU_ID} python corrupt.py \
