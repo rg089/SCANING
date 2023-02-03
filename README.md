@@ -1,6 +1,6 @@
 # SCANING
 
-The source code and data for our paper *Coherence and Diversity through Noise*: Self-Supervised Paraphrase Generation via Structure-Aware Denoising
+The source code and data for our paper '*Coherence and Diversity through Noise*: Self-Supervised Paraphrase Generation via Structure-Aware Denoising'.
 
 ## Instructions to run the code:
 
