@@ -1,6 +1,6 @@
-# SCANInG
+# SCANING
 
-Code for our paper "SCANInG: Syntax and Context-Aware Noise Injection with Grounding for Self-Supervised Paraphrasing"
+The source code and data for our paper *Coherence and Diversity through Noise*: Self-Supervised Paraphrase Generation via Structure-Aware Denoising
 
 ## Instructions to run the code:
 
