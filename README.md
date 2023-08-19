@@ -1,6 +1,6 @@
 # SCANING
 
-The source code and data for our paper '*Coherence and Diversity through Noise*: Self-Supervised Paraphrase Generation via Structure-Aware Denoising'.
+The source code and data for '*James ate 5 oranges = Steve bought 5 pencils*: Structure-Aware Denoising for Paraphrasing Word Problems', accepted as a full paper at CIKM'23.
 
 ## Instructions to run the code:
 
